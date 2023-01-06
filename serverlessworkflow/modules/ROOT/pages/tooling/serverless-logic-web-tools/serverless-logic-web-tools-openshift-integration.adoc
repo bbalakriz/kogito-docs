@@ -23,6 +23,11 @@ A window appears containing your current operating system as selected and a link
 --
 You might need to grant permissions to run the file depending on your operating system and settings.
 
+[NOTE]
+====
+If you are using macOS, you might encounter the error `KIE Sandbox Extended Services is damaged and can't be opened. You should move it to the Bin` while trying to run the application `KIE Sandbox Extended Services`. This is due to the overzealous security approach from macOS and could be overcome by moving the application out of quarantine by following the details outlined https://www.howtogeek.com/803598/app-is-damaged-and-cant-be-opened/[here].
+====
+
 After executing the KIE Sandbox Extended Services the content in the *KIE Sandbox Extended Services* is updated and displays that you are connected to the KIE Sandbox Extended Services.
 --
 
